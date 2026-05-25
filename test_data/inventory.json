@@ -1,0 +1,20 @@
+{
+  "lab": "Экспорт Орталығы",
+  "devices": [
+    {
+      "pc_id": "PC-201",
+      "status": "broken",
+      "room": "201"
+    },
+    {
+      "pc_id": "PC-202",
+      "status": "working",
+      "room": "201"
+    },
+    {
+      "pc_id": "PC-203",
+      "status": "repair",
+      "room": "202"
+    }
+  ]
+}
